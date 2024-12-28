@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T20:45:20 IST" name="Loan" finished-at="2024-12-27T20:45:20 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T20:45:20 IST" name="Home Loan" finished-at="2024-12-27T20:45:20 IST" duration-ms="55">
+      <class name="loan.HomeLoan">
+        <test-method signature="webLoginHL()[pri:0, instance:loan.HomeLoan@6a84a97d]" started-at="2024-12-27T20:45:20 IST" name="webLoginHL" finished-at="2024-12-27T20:45:20 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginHL -->
+      </class> <!-- loan.HomeLoan -->
+    </test> <!-- Home Loan -->
+  </suite> <!-- Loan -->
+</testng-results>
